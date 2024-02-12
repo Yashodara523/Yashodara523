@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nethmini Yasodara</h1>
+
+<h1 align="center">Hi 👋, I'm Nethmini Yasodara  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodara523&label=Profile%20views&color=0e75b6&style=flat" alt="yashodara523" /> </p>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginer+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45&color=000000"></a>
+</p>
+
 
 - 🔭 I’m currently working on **MERN projects.**
 
